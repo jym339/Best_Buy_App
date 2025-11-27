@@ -22,7 +22,7 @@ export const StepProcess: React.FC<WizardStepProps> = ({ onNext }) => {
     },
     {
       icon: <Gift className="w-8 h-8 text-white" />,
-      title: "Receive your $750 reward",
+      title: "Receive your $1000 reward",
       desc: "Get your gift card after completing your honest product reviews",
     }
   ];
@@ -35,7 +35,7 @@ export const StepProcess: React.FC<WizardStepProps> = ({ onNext }) => {
     <div className="space-y-10 animate-fadeIn">
       <div className="text-center space-y-2">
         <h2 className="text-3xl font-extrabold text-gray-900">How to Qualify</h2>
-        <p className="text-gray-500">Follow these simple steps to earn your $750 Best Buy reward</p>
+        <p className="text-gray-500">Follow these simple steps to earn your $1000 Best Buy reward</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

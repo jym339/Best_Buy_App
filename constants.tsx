@@ -23,7 +23,7 @@ export const GiftCard = () => (
     <div className="absolute bottom-0 left-0 w-24 h-24 bg-white opacity-5 rounded-tr-full"></div>
     
     <div className="flex justify-end">
-       <span className="text-white font-bold text-4xl tracking-tighter">$750</span>
+       <span className="text-white font-bold text-4xl tracking-tighter">$1000</span>
     </div>
 
     <div className="flex flex-col items-center justify-center flex-grow">

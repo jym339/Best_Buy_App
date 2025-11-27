@@ -10,7 +10,7 @@ export const StepTestimonials: React.FC = () => {
       location: "Los Angeles, CA",
       time: "3 hours ago",
       rating: 5,
-      text: "I received my $750 Best Buy gift card within 48 hours! The gaming monitor was amazing and the process was so simple."
+      text: "I received my $1000 Best Buy gift card within 48 hours! The gaming monitor was amazing and the process was so simple."
     },
     {
       name: "James L.",
@@ -24,7 +24,7 @@ export const StepTestimonials: React.FC = () => {
       location: "Phoenix, AZ",
       time: "1 day ago",
       rating: 5,
-      text: "I was skeptical at first, but this is the real deal. Shopping + $750 reward = amazing opportunity!"
+      text: "I was skeptical at first, but this is the real deal. Shopping + $1000 reward = amazing opportunity!"
     }
   ];
 
